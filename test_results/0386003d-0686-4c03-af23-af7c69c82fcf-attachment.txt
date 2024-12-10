@@ -1,0 +1,11 @@
+Метод POST
+https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+{'status': 'OK', 'place_id': 'ccea48a9abce02eec61f215369f7ad69', 'scope': 'APP', 'reference': 'a132fd2092b854a07c2d127501e805e0a132fd2092b854a07c2d127501e805e0', 'id': 'a132fd2092b854a07c2d127501e805e0'}
+200
+Успешно! Статус код = 200
+['status', 'place_id', 'scope', 'reference', 'id']
+Все поля присутствуют
+OK
+status верно!
+Метод GET POST
+https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=ccea48a9abce02eec61f215369f7ad69
